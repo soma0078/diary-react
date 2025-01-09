@@ -1,8 +1,12 @@
-# React + Vite
+# 감정Pick
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 프로젝트 소개
 
-Currently, two official plugins are available:
+일상과 감정을 기록할 수 있는 간단한 일기장 애플리케이션입니다. React와 Vite로 개발하여 빠른 로딩 속도로 사용자 편의성을 극대화했습니다. 이 프로젝트는 개인 학습과 프론트엔드 개발 실습을 목적으로 제작했습니다.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 주요 기능
+
+- 감정 선택을 통한 일기 작성
+- 작성된 일기 수정 / 삭제
+- 일기 정렬: 최신순 / 오래된순
+- 월별 일기 조회 및 이동
